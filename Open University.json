@@ -1,0 +1,37 @@
+[
+  {
+    "name": "SAP",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
+  },
+  {
+    "name": "DiH",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "The joy of our life ..."
+  },
+   {
+    "name": "StudentHome",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  },
+  {
+    "name": "VOICE",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "we know what it is ..."
+  },
+  {
+    "name": "SalesForce",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "We continue to see teams run into trouble using Salesforce ..."
+  }
+]
