@@ -7,24 +7,31 @@
     "description": "Although the idea of dependency management ..."
   },
   {
-    "name": "VOICE",
+    "name": "DiH",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "The joy of our life ..."
+  },
+   {
+    "name": "StudentHome",
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Many projects have external code dependencies ..."
   },
   {
-    "name": "DiH",
+    "name": "VOICE",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Apache Kylin is an open source analytics solution ..."
+    "description": "we know what it is ..."
   },
   {
-    "name": "Somthing Else",
+    "name": "SalesForce",
     "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
+    "description": "We continue to see teams run into trouble using Salesforce ..."
   }
 ]
